@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,mFAA2E;AAC3E,6FAAqF;AACrF,gFAAwE;ACFhF,kBAAmB;EACjB,gBAAgB,ECDC,OAAO",
+"sources": ["typographs/_typo.scss","components/sidebar/_sidebarContainer.scss","colors/_colors.scss"],
+"names": [],
+"file": "style.css"
+}
